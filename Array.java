@@ -19,6 +19,8 @@ public class Array {
 		System.out.println(marks[2]);
 		float[] average = { 68.87f, 87.09f, 92.21f };
 		System.out.println(average[1]);
+		
+		System.out.println(2023);
 
 
 	
